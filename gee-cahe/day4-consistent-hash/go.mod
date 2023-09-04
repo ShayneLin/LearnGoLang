@@ -1,4 +1,4 @@
-module day3-http-server
+module day4-consistenthash
 
 go 1.20
 require (
